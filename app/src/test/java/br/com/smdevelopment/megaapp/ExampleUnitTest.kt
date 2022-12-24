@@ -1,4 +1,4 @@
-package br.com.smdevelopment.myapplication
+package br.com.smdevelopment.megaapp
 
 import org.junit.Test
 

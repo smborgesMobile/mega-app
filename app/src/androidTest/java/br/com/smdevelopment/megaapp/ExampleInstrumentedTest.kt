@@ -1,4 +1,4 @@
-package br.com.smdevelopment.myapplication
+package br.com.smdevelopment.megaapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

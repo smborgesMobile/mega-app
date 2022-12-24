@@ -1,4 +1,4 @@
-package br.com.smdevelopment.myapplication.ui.theme
+package br.com.smdevelopment.megaapp.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
